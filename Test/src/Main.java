@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	product.put("A01", 100.0);
 	product.put("B05", 150.5);
 	product.put("D05", 250.0);
+	product.put("D15", 250.0);
 	String id = "";
 	try
 	{
